@@ -22,7 +22,7 @@ Soy estudiante de Ingeniería de Sistemas, apasionado por el desarrollo y la ges
 
 ## 🎓 Dónde estudio:
 - 🏫 **Universidad de Manizales**
-![](![Banner](banner.png)
+!(universidad_manizales.png)
 
 ---
 
