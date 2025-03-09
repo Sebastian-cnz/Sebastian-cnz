@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hola, Bienvenido a mi perfil
 
-<!--
-**Sebastian-cnz/Sebastian-cnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](banner.png)
 
-Here are some ideas to get you started:
+## 🎓 Sebastiasn carrillo 
+**Estudiante**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy estudiante de Ingeniería de Sistemas, apasionado por el desarrollo y la gestión de proyectos en entornos web y móvil. Me especializo en backend y desarrollo full-stack, trabajando con tecnologías modernas y metodologías ágiles.
+
+### ✨ Frase que me inspira:
+> "Cada línea de código que escribo es un paso más hacia el futuro que quiero construir"
+
+---
+
+## 🚀 Tecnologías que más uso:
+`HTML` `CSS` `JavaScript` `React` `Node.js` `PHP` `MySQL` `MongoDB` `Python` `Git` `Docker`
+
+## 🛠 Otras tecnologías que conozco:
+`Java` `Spring Boot` `C#` `Angular` `Vue.js` `TypeScript` `PostgreSQL` `Firebase` `Kotlin`
+
+---
+
+## 🎓 Dónde estudio:
+- 🏫 **Universidad de Manizales**
+
+
+---
+
+## 📫 ¡Conéctate conmigo!
+- 📧 **Correo:** [cn.sebas05@gmail.com](cn.sebas05@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/tuusuario]()
+
